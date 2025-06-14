@@ -9,10 +9,13 @@ The main objective of the analysis was to study:
 - Campaign performance across different contact strategies and customer groups
 
 **Tools Used:**
-- Power BI (Data visualization and DAX for calculations)
-- DAX (Data modeling and measure creation)
+- Power BI 
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Data Visualization & Reporting
 
 ---
+🔍 Project Breakdown
 
 📂 Dataset Summary
 
